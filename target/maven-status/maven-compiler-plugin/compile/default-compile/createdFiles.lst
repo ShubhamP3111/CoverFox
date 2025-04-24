@@ -1,0 +1,5 @@
+com\coverFox_POM\CoverFoxHomePage.class
+com\coverFox_Listener\ExtentReporterNG.class
+com\coverFox_POM\CoverFoxAddressDetailsPage.class
+com\coverFox_POM\CoverFoxResultPage.class
+com\coverFox_POM\CoverFoxGenderPage.class
