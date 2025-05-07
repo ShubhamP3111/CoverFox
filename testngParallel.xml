@@ -25,12 +25,10 @@
 		</classes>
 	</test>
 
-	<test name="Test4" >
+	<test name="Test4">
 		<classes>
 			<class
 				name="com.coverFoxTest.CoverFoxValidatePincodeAndMobileErrorMsg" />
 		</classes>
 	</test>
-
-
 </suite> 

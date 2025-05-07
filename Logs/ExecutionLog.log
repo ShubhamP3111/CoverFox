@@ -370,3 +370,174 @@
 2025-04-24 21:56:11,169 - CoverFox -INFO - Click on continue button on Address Page
 2025-04-24 21:56:15,263 - CoverFox -INFO - Validating Pincode Error Message
 2025-04-24 21:56:15,265 - CoverFox -INFO - Closing Browser
+2025-04-25 13:19:34,091 - CoverFox -INFO - Begin Testing for CoverFoxErrorMsgonAddressPage
+2025-04-25 13:19:34,089 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:19:34,085 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:19:34,104 - CoverFox -INFO - launching browser
+2025-04-25 13:19:34,095 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:19:52,217 - CoverFox -INFO - launching browser
+2025-04-25 13:19:55,637 - CoverFox -INFO - launching browser
+2025-04-25 13:19:58,728 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:20:01,234 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:20:03,356 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:20:05,480 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:20:08,784 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:20:08,968 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:20:10,906 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:20:12,102 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:20:12,882 - CoverFox -INFO - coverFoxAddressDetailsPage
+2025-04-25 13:20:14,953 - CoverFox -INFO - Click on continue button on Address Page
+2025-04-25 13:20:17,212 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:20:17,563 - CoverFox -INFO - Validating coverFoxPlans
+2025-04-25 13:20:17,585 - CoverFox -INFO - Closing Browser
+2025-04-25 13:20:19,018 - CoverFox -INFO - launching browser
+2025-04-25 13:20:19,427 - CoverFox -INFO - Click on coninue button on Address Page
+2025-04-25 13:20:19,428 - CoverFox -INFO - Validating Mobile Error Message
+2025-04-25 13:20:19,432 - CoverFox -INFO - Closing Browser
+2025-04-25 13:20:21,092 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:20:23,546 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:20:24,213 - CoverFox -INFO - Validating Pincode Error Message
+2025-04-25 13:20:24,220 - CoverFox -INFO - Validating Mobile Error Message
+2025-04-25 13:20:24,240 - CoverFox -INFO - Closing Browser
+2025-04-25 13:20:24,761 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:20:25,952 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:20:26,406 - CoverFox -INFO - coverFoxAddressDetailsPage
+2025-04-25 13:20:29,642 - CoverFox -INFO - launching browser
+2025-04-25 13:20:30,429 - CoverFox -WARN - Validation of coverFoxPlans failed
+2025-04-25 13:20:30,972 - CoverFox -INFO - Closing Browser
+2025-04-25 13:20:33,305 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:20:34,914 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:20:36,489 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:20:37,043 - CoverFox -INFO - Click on continue button on Address Page
+2025-04-25 13:20:41,128 - CoverFox -INFO - Validating Pincode Error Message
+2025-04-25 13:20:41,135 - CoverFox -INFO - Closing Browser
+2025-04-25 13:28:55,522 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:28:58,742 - CoverFox -INFO - launching browser
+2025-04-25 13:40:51,991 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:40:51,987 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:40:51,985 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:40:51,980 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:40:51,993 - CoverFox -INFO - Begin Testing for CoverFoxErrorMsgonAddressPage
+2025-04-25 13:40:52,002 - CoverFox -INFO - launching browser
+2025-04-25 13:41:14,175 - CoverFox -INFO - launching browser
+2025-04-25 13:41:14,187 - CoverFox -INFO - launching browser
+2025-04-25 13:41:15,053 - CoverFox -INFO - launching browser
+2025-04-25 13:41:15,053 - CoverFox -INFO - launching browser
+2025-04-25 13:41:16,367 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:41:17,767 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:41:17,768 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:41:19,553 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:41:20,903 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:41:22,335 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:41:22,397 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:41:22,449 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:41:26,039 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:41:26,558 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:41:27,840 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:41:28,942 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:41:29,124 - CoverFox -INFO - Click on coninue button on Address Page
+2025-04-25 13:41:29,793 - CoverFox -INFO - coverFoxAddressDetailsPage
+2025-04-25 13:41:29,860 - CoverFox -INFO - Click on continue button on Address Page
+2025-04-25 13:41:29,872 - CoverFox -INFO - coverFoxAddressDetailsPage
+2025-04-25 13:41:33,536 - CoverFox -INFO - Validating Pincode Error Message
+2025-04-25 13:41:33,542 - CoverFox -INFO - Validating Mobile Error Message
+2025-04-25 13:41:33,551 - CoverFox -INFO - Closing Browser
+2025-04-25 13:41:33,818 - CoverFox -WARN - Validation of coverFoxPlans failed
+2025-04-25 13:41:34,145 - CoverFox -INFO - Validating coverFoxPlans
+2025-04-25 13:41:34,149 - CoverFox -INFO - Closing Browser
+2025-04-25 13:41:34,362 - CoverFox -INFO - Closing Browser
+2025-04-25 13:44:11,308 - CoverFox -INFO - Begin Testing for CoverFoxErrorMsgonAddressPage
+2025-04-25 13:44:11,306 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:44:11,304 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:44:11,316 - CoverFox -INFO - launching browser
+2025-04-25 13:44:11,311 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:44:17,704 - CoverFox -INFO - launching browser
+2025-04-25 13:44:19,969 - CoverFox -INFO - launching browser
+2025-04-25 13:44:20,337 - CoverFox -INFO - launching browser
+2025-04-25 13:44:34,639 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:44:36,394 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:44:37,607 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:44:41,712 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:44:41,907 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:44:44,874 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:44:46,083 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:44:47,707 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:44:48,117 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:44:48,708 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:44:49,466 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:44:49,743 - CoverFox -INFO - Click on coninue button on Address Page
+2025-04-25 13:44:50,231 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:44:50,273 - CoverFox -INFO - coverFoxAddressDetailsPage
+2025-04-25 13:44:50,784 - CoverFox -INFO - Click on continue button on Address Page
+2025-04-25 13:44:51,519 - CoverFox -INFO - coverFoxAddressDetailsPage
+2025-04-25 13:44:53,888 - CoverFox -INFO - Validating Pincode Error Message
+2025-04-25 13:44:53,891 - CoverFox -INFO - Validating Mobile Error Message
+2025-04-25 13:44:53,897 - CoverFox -INFO - Closing Browser
+2025-04-25 13:44:54,288 - CoverFox -WARN - Validation of coverFoxPlans failed
+2025-04-25 13:44:54,530 - CoverFox -INFO - Closing Browser
+2025-04-25 13:44:55,065 - CoverFox -INFO - Validating Mobile Error Message
+2025-04-25 13:44:55,070 - CoverFox -INFO - Closing Browser
+2025-04-25 13:44:55,758 - CoverFox -INFO - Validating coverFoxPlans
+2025-04-25 13:44:55,762 - CoverFox -INFO - Closing Browser
+2025-04-25 13:44:56,756 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:45:01,780 - CoverFox -INFO - launching browser
+2025-04-25 13:45:03,253 - CoverFox -INFO - coverFoxHomePage
+2025-04-25 13:45:04,658 - CoverFox -INFO - coverFoxGenderPage
+2025-04-25 13:45:06,118 - CoverFox -INFO - coverFoxSelectAge
+2025-04-25 13:45:06,620 - CoverFox -INFO - Click on continue button on Address Page
+2025-04-25 13:45:10,683 - CoverFox -INFO - Validating Pincode Error Message
+2025-04-25 13:45:10,686 - CoverFox -INFO - Closing Browser
+2025-04-25 13:48:46,797 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-25 13:48:50,234 - CoverFox -INFO - launching browser
+2025-04-26 01:26:26,416 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-26 01:26:26,429 - CoverFox -INFO - launching browser
+2025-04-26 01:26:28,005 - CoverFox -INFO - coverFoxHomePage
+2025-04-26 01:26:29,053 - CoverFox -INFO - coverFoxGenderPage
+2025-04-26 01:26:31,068 - CoverFox -INFO - coverFoxSelectAge
+2025-04-26 01:26:32,047 - CoverFox -INFO - Click on continue button on Address Page
+2025-04-26 01:26:36,135 - CoverFox -INFO - Validating Mobile Error Message
+2025-04-26 01:26:36,143 - CoverFox -INFO - Closing Browser
+2025-04-26 01:26:37,596 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-26 01:26:37,597 - CoverFox -INFO - launching browser
+2025-04-26 01:28:25,023 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-26 01:28:25,029 - CoverFox -INFO - launching browser
+2025-04-26 01:28:26,491 - CoverFox -INFO - coverFoxHomePage
+2025-04-26 01:28:27,663 - CoverFox -INFO - coverFoxGenderPage
+2025-04-26 01:28:29,354 - CoverFox -INFO - coverFoxSelectAge
+2025-04-26 01:28:30,236 - CoverFox -INFO - Click on continue button on Address Page
+2025-04-26 01:28:34,302 - CoverFox -INFO - Validating Mobile Error Message
+2025-04-26 01:28:34,309 - CoverFox -INFO - Closing Browser
+2025-04-26 01:28:42,563 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-26 01:28:42,569 - CoverFox -INFO - launching browser
+2025-04-26 01:28:43,779 - CoverFox -INFO - coverFoxHomePage
+2025-04-26 01:28:44,806 - CoverFox -INFO - coverFoxGenderPage
+2025-04-26 01:28:46,533 - CoverFox -INFO - coverFoxSelectAge
+2025-04-26 01:28:47,284 - CoverFox -INFO - Click on continue button on Address Page
+2025-04-26 01:28:51,351 - CoverFox -INFO - Validating Pincode Error Message
+2025-04-26 01:28:51,355 - CoverFox -INFO - Closing Browser
+2025-04-26 01:31:36,560 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-26 01:31:36,568 - CoverFox -INFO - launching browser
+2025-04-26 01:32:45,194 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-26 01:32:45,204 - CoverFox -INFO - launching browser
+2025-04-26 01:32:54,657 - CoverFox -INFO - coverFoxHomePage
+2025-04-26 01:32:55,861 - CoverFox -INFO - coverFoxGenderPage
+2025-04-26 01:32:57,418 - CoverFox -INFO - coverFoxSelectAge
+2025-04-26 01:32:58,519 - CoverFox -INFO - coverFoxAddressDetailsPage
+2025-04-26 01:33:02,885 - CoverFox -INFO - Validating coverFoxPlans
+2025-04-26 01:33:02,897 - CoverFox -INFO - Closing Browser
+2025-04-26 01:34:20,465 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-26 01:34:20,471 - CoverFox -INFO - launching browser
+2025-04-26 01:34:29,254 - CoverFox -INFO - coverFoxHomePage
+2025-04-26 01:34:30,274 - CoverFox -INFO - coverFoxGenderPage
+2025-04-26 01:34:31,918 - CoverFox -INFO - coverFoxSelectAge
+2025-04-26 01:34:32,989 - CoverFox -INFO - coverFoxAddressDetailsPage
+2025-04-26 01:34:37,089 - CoverFox -INFO - Validating coverFoxPlans
+2025-04-26 01:34:37,098 - CoverFox -INFO - Closing Browser
+2025-04-26 01:34:38,415 - CoverFox -INFO - Begin Testing for CoverFox
+2025-04-26 01:34:38,415 - CoverFox -INFO - launching browser
+2025-04-26 01:34:47,012 - CoverFox -INFO - coverFoxHomePage
+2025-04-26 01:34:48,361 - CoverFox -INFO - coverFoxGenderPage
+2025-04-26 01:34:49,165 - CoverFox -INFO - coverFoxSelectAge
+2025-04-26 01:34:49,918 - CoverFox -INFO - coverFoxAddressDetailsPage
+2025-04-26 01:34:54,041 - CoverFox -INFO - Validating coverFoxPlans
+2025-04-26 01:34:54,045 - CoverFox -INFO - Closing Browser

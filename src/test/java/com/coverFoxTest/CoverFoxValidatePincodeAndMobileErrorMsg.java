@@ -41,7 +41,8 @@ public class CoverFoxValidatePincodeAndMobileErrorMsg extends com.coverFox_Base.
 		logger = Logger.getLogger("CoverFox");
 		PropertyConfigurator.configure("log4j.properties");
 		logger.info("Begin Testing for CoverFox");
-		launchBrowser();
+		
+	//	launchBrowser();
 		logger.info("launching browser");
 		// myFile = new FileInputStream("path of excel");
 		// mySheet = WorkbookFactory.create(myFile).getSheet("Sheetname");
