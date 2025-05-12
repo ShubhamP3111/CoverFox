@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="4" failed="1" skipped="0">
+<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[Launching Browser]]>
+      <![CDATA[Launching Chrome Browser]]>
     </line>
     <line>
-      <![CDATA[Launching Browser]]>
+      <![CDATA[Launching Chrome Browser]]>
     </line>
     <line>
-      <![CDATA[Launching Browser]]>
-    </line>
-    <line>
-      <![CDATA[Launching Browser]]>
+      <![CDATA[Launching Chrome Browser]]>
     </line>
     <line>
       <![CDATA[Clicking on Gender]]>
@@ -29,10 +26,13 @@
       <![CDATA[Handeling Age Dropdown]]>
     </line>
     <line>
-      <![CDATA[Clicking on Gender]]>
+      <![CDATA[Handeling Age Dropdown]]>
     </line>
     <line>
-      <![CDATA[Handeling Age Dropdown]]>
+      <![CDATA[Address details Page]]>
+    </line>
+    <line>
+      <![CDATA[Entering Pin]]>
     </line>
     <line>
       <![CDATA[Address details Page]]>
@@ -47,43 +47,28 @@
       <![CDATA[Entering Pin]]>
     </line>
     <line>
-      <![CDATA[Handeling Age Dropdown]]>
-    </line>
-    <line>
-      <![CDATA[Address details Page]]>
-    </line>
-    <line>
-      <![CDATA[Entering Pin]]>
-    </line>
-    <line>
-      <![CDATA[Entering Mobile number]]>
-    </line>
-    <line>
       <![CDATA[Entering Mobile number]]>
     </line>
     <line>
       <![CDATA[Clicking continue button]]>
     </line>
     <line>
-      <![CDATA[Clicking continue button]]>
-    </line>
-    <line>
-      <![CDATA[Address details Page]]>
+      <![CDATA[Entering Mobile number]]>
     </line>
     <line>
       <![CDATA[Clicking continue button]]>
-    </line>
-    <line>
-      <![CDATA[Fetching plan number from Text]]>
-    </line>
-    <line>
-      <![CDATA[TC failed]]>
-    </line>
-    <line>
-      <![CDATA[TC is failed validateCoverFoxPlansFail]]>
     </line>
     <line>
       <![CDATA[Checking if pincode error msg is displayed true]]>
+    </line>
+    <line>
+      <![CDATA[Checking if mobile error msg is displayed true]]>
+    </line>
+    <line>
+      <![CDATA[TC is passed validateAddressPageErrorMessages]]>
+    </line>
+    <line>
+      <![CDATA[Fetching plan number from Text]]>
     </line>
     <line>
       <![CDATA[Fetching plan number from plan cards]]>
@@ -101,70 +86,54 @@
       <![CDATA[TC is passed validateCoverFoxPlans]]>
     </line>
     <line>
-      <![CDATA[Closing Browser]]>
-    </line>
-    <line>
-      <![CDATA[Checking if mobile error msg is displayed true]]>
-    </line>
-    <line>
-      <![CDATA[TC is passed validateAddressPageErrorMessages]]>
+      <![CDATA[Taking screenshot and saving at destination C:\Users\Shubham\OneDrive\Desktop\screenshots\CoverFox2025_05_09_00_26_17.png]]>
     </line>
     <line>
       <![CDATA[Closing Browser]]>
     </line>
     <line>
-      <![CDATA[Taking screenshot and saving at destination C:\Users\Shubham\OneDrive\Desktop\screenshots\CoverFox2025_04_24_21_55_59.png]]>
+      <![CDATA[TC failed]]>
+    </line>
+    <line>
+      <![CDATA[TC is failed validateCoverFoxPlansFail]]>
+    </line>
+    <line>
+      <![CDATA[Taking screenshot and saving at destination C:\Users\Shubham\OneDrive\Desktop\screenshots\CoverFox2025_05_09_00_26_17.png]]>
     </line>
     <line>
       <![CDATA[Closing Browser]]>
     </line>
     <line>
-      <![CDATA[Checking if mobile error msg is displayed true]]>
-    </line>
-    <line>
-      <![CDATA[TC is passed validateAddressPageMobileErrorMessages]]>
-    </line>
-    <line>
-      <![CDATA[Closing Browser]]>
-    </line>
-    <line>
-      <![CDATA[Launching Browser]]>
-    </line>
-    <line>
-      <![CDATA[Clicking on Gender]]>
-    </line>
-    <line>
-      <![CDATA[Handeling Age Dropdown]]>
-    </line>
-    <line>
-      <![CDATA[Address details Page]]>
-    </line>
-    <line>
-      <![CDATA[Clicking continue button]]>
-    </line>
-    <line>
-      <![CDATA[Checking if pincode error msg is displayed true]]>
-    </line>
-    <line>
-      <![CDATA[TC is passed validateAddressPagePinErrorMessages]]>
+      <![CDATA[Taking screenshot and saving at destination C:\Users\Shubham\OneDrive\Desktop\screenshots\CoverFox2025_05_09_00_26_17.png]]>
     </line>
     <line>
       <![CDATA[Closing Browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-04-24T21:55:33 IST" name="Suite" finished-at="2025-04-24T21:56:15 IST" duration-ms="42280">
+  <suite started-at="2025-05-09T00:25:56 IST" name="Suite" finished-at="2025-05-09T00:26:18 IST" duration-ms="22610">
     <groups>
     </groups>
-    <test started-at="2025-04-24T21:55:33 IST" name="Test3" finished-at="2025-04-24T21:56:01 IST" duration-ms="27789">
+    <test started-at="2025-05-09T00:25:56 IST" name="Test3" finished-at="2025-05-09T00:26:18 IST" duration-ms="22332">
       <class name="com.coverFoxTest.CoverFoxValidateErrorMsgOnAddressPage">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.coverFoxTest.CoverFoxValidateErrorMsgOnAddressPage@740773a3]" started-at="2025-04-24T21:55:33 IST" name="openBrowser" finished-at="2025-04-24T21:55:43 IST" duration-ms="9847" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.coverFoxTest.CoverFoxValidateErrorMsgOnAddressPage@6497b078]" started-at="2025-05-09T00:25:56 IST" name="openBrowser" finished-at="2025-05-09T00:25:56 IST" duration-ms="26" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Launching Browser]]>
-            </line>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method is-config="true" signature="coverFoxPreRequisites()[pri:0, instance:com.coverFoxTest.CoverFoxValidateErrorMsgOnAddressPage@740773a3]" started-at="2025-04-24T21:55:43 IST" name="coverFoxPreRequisites" finished-at="2025-04-24T21:55:58 IST" duration-ms="15303" status="PASS">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:com.coverFoxTest.CoverFoxValidateErrorMsgOnAddressPage@6497b078]" started-at="2025-05-09T00:25:56 IST" name="launchBrowser" finished-at="2025-05-09T00:26:04 IST" duration-ms="8100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="coverFoxPreRequisites()[pri:0, instance:com.coverFoxTest.CoverFoxValidateErrorMsgOnAddressPage@6497b078]" started-at="2025-05-09T00:26:04 IST" name="coverFoxPreRequisites" finished-at="2025-05-09T00:26:16 IST" duration-ms="12548" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Clicking on Gender]]>
@@ -180,7 +149,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- coverFoxPreRequisites -->
-        <test-method signature="validateAddressPageErrorMessages()[pri:0, instance:com.coverFoxTest.CoverFoxValidateErrorMsgOnAddressPage@740773a3]" started-at="2025-04-24T21:55:58 IST" name="validateAddressPageErrorMessages" finished-at="2025-04-24T21:56:00 IST" duration-ms="1365" status="PASS">
+        <test-method signature="validateAddressPageErrorMessages()[pri:0, instance:com.coverFoxTest.CoverFoxValidateErrorMsgOnAddressPage@6497b078]" started-at="2025-05-09T00:26:16 IST" name="validateAddressPageErrorMessages" finished-at="2025-05-09T00:26:17 IST" duration-ms="300" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Checking if pincode error msg is displayed true]]>
@@ -191,9 +160,12 @@
             <line>
               <![CDATA[TC is passed validateAddressPageErrorMessages]]>
             </line>
+            <line>
+              <![CDATA[Taking screenshot and saving at destination C:\Users\Shubham\OneDrive\Desktop\screenshots\CoverFox2025_05_09_00_26_17.png]]>
+            </line>
           </reporter-output>
         </test-method> <!-- validateAddressPageErrorMessages -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.coverFoxTest.CoverFoxValidateErrorMsgOnAddressPage@740773a3]" started-at="2025-04-24T21:56:00 IST" name="closeBrowser" finished-at="2025-04-24T21:56:01 IST" duration-ms="1221" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.coverFoxTest.CoverFoxValidateErrorMsgOnAddressPage@6497b078]" started-at="2025-05-09T00:26:17 IST" name="closeBrowser" finished-at="2025-05-09T00:26:18 IST" duration-ms="892" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing Browser]]>
@@ -202,16 +174,23 @@
         </test-method> <!-- closeBrowser -->
       </class> <!-- com.coverFoxTest.CoverFoxValidateErrorMsgOnAddressPage -->
     </test> <!-- Test3 -->
-    <test started-at="2025-04-24T21:55:33 IST" name="Test1" finished-at="2025-04-24T21:56:01 IST" duration-ms="27752">
+    <test started-at="2025-05-09T00:25:56 IST" name="Test1" finished-at="2025-05-09T00:26:18 IST" duration-ms="22533">
       <class name="com.coverFoxTest.CoverFoxTestUsingTestNG">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNG@26b3fd41]" started-at="2025-04-24T21:55:33 IST" name="openBrowser" finished-at="2025-04-24T21:55:43 IST" duration-ms="9552" status="PASS">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNG@131ef10]" started-at="2025-05-09T00:25:56 IST" name="launchBrowser" finished-at="2025-05-09T00:26:00 IST" duration-ms="4268" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[Launching Browser]]>
+              <![CDATA[Launching Chrome Browser]]>
             </line>
           </reporter-output>
-        </test-method> <!-- openBrowser -->
-        <test-method is-config="true" signature="coverFoxPreRequisites()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNG@26b3fd41]" started-at="2025-04-24T21:55:43 IST" name="coverFoxPreRequisites" finished-at="2025-04-24T21:55:58 IST" duration-ms="15755" status="PASS">
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="coverFoxPreRequisites()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNG@131ef10]" started-at="2025-05-09T00:26:00 IST" name="coverFoxPreRequisites" finished-at="2025-05-09T00:26:17 IST" duration-ms="16708" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Clicking on Gender]]>
@@ -233,7 +212,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- coverFoxPreRequisites -->
-        <test-method signature="validateCoverFoxPlans()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNG@26b3fd41]" started-at="2025-04-24T21:55:58 IST" name="validateCoverFoxPlans" finished-at="2025-04-24T21:55:59 IST" duration-ms="807" status="PASS">
+        <test-method signature="validateCoverFoxPlans()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNG@131ef10]" started-at="2025-05-09T00:26:17 IST" name="validateCoverFoxPlans" finished-at="2025-05-09T00:26:17 IST" duration-ms="164" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Fetching plan number from Text]]>
@@ -253,9 +232,12 @@
             <line>
               <![CDATA[TC is passed validateCoverFoxPlans]]>
             </line>
+            <line>
+              <![CDATA[Taking screenshot and saving at destination C:\Users\Shubham\OneDrive\Desktop\screenshots\CoverFox2025_05_09_00_26_17.png]]>
+            </line>
           </reporter-output>
         </test-method> <!-- validateCoverFoxPlans -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNG@26b3fd41]" started-at="2025-04-24T21:55:59 IST" name="closeBrowser" finished-at="2025-04-24T21:56:01 IST" duration-ms="1583" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNG@131ef10]" started-at="2025-05-09T00:26:17 IST" name="closeBrowser" finished-at="2025-05-09T00:26:18 IST" duration-ms="935" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing Browser]]>
@@ -264,16 +246,23 @@
         </test-method> <!-- closeBrowser -->
       </class> <!-- com.coverFoxTest.CoverFoxTestUsingTestNG -->
     </test> <!-- Test1 -->
-    <test started-at="2025-04-24T21:55:33 IST" name="Test2" finished-at="2025-04-24T21:56:01 IST" duration-ms="28258">
+    <test started-at="2025-05-09T00:25:56 IST" name="Test2" finished-at="2025-05-09T00:26:18 IST" duration-ms="22610">
       <class name="com.coverFoxTest.CoverFoxTestUsingTestNGFail">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNGFail@484970b0]" started-at="2025-04-24T21:55:33 IST" name="openBrowser" finished-at="2025-04-24T21:55:42 IST" duration-ms="8841" status="PASS">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNGFail@69fb6037]" started-at="2025-05-09T00:25:56 IST" name="launchBrowser" finished-at="2025-05-09T00:26:00 IST" duration-ms="4631" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[Launching Browser]]>
+              <![CDATA[Launching Chrome Browser]]>
             </line>
           </reporter-output>
-        </test-method> <!-- openBrowser -->
-        <test-method is-config="true" signature="coverFoxPreRequisites()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNGFail@484970b0]" started-at="2025-04-24T21:55:42 IST" name="coverFoxPreRequisites" finished-at="2025-04-24T21:55:59 IST" duration-ms="16605" status="PASS">
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="coverFoxPreRequisites()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNGFail@69fb6037]" started-at="2025-05-09T00:26:00 IST" name="coverFoxPreRequisites" finished-at="2025-05-09T00:26:17 IST" duration-ms="16724" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Clicking on Gender]]>
@@ -295,7 +284,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- coverFoxPreRequisites -->
-        <test-method signature="validateCoverFoxPlansFail()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNGFail@484970b0]" started-at="2025-04-24T21:55:59 IST" name="validateCoverFoxPlansFail" finished-at="2025-04-24T21:55:59 IST" duration-ms="11" status="FAIL">
+        <test-method signature="validateCoverFoxPlansFail()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNGFail@69fb6037]" started-at="2025-05-09T00:26:17 IST" name="validateCoverFoxPlansFail" finished-at="2025-05-09T00:26:17 IST" duration-ms="4" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[null]]>
@@ -304,7 +293,7 @@
               <![CDATA[java.lang.AssertionError: null
 at org.testng.Assert.fail(Assert.java:111)
 at org.testng.Assert.fail(Assert.java:116)
-at com.coverFoxTest.CoverFoxTestUsingTestNGFail.validateCoverFoxPlansFail(CoverFoxTestUsingTestNGFail.java:70)
+at com.coverFoxTest.CoverFoxTestUsingTestNGFail.validateCoverFoxPlansFail(CoverFoxTestUsingTestNGFail.java:68)
 at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
@@ -336,11 +325,11 @@ at java.base/java.lang.Thread.run(Thread.java:1575)
               <![CDATA[TC is failed validateCoverFoxPlansFail]]>
             </line>
             <line>
-              <![CDATA[Taking screenshot and saving at destination C:\Users\Shubham\OneDrive\Desktop\screenshots\CoverFox2025_04_24_21_55_59.png]]>
+              <![CDATA[Taking screenshot and saving at destination C:\Users\Shubham\OneDrive\Desktop\screenshots\CoverFox2025_05_09_00_26_17.png]]>
             </line>
           </reporter-output>
         </test-method> <!-- validateCoverFoxPlansFail -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNGFail@484970b0]" started-at="2025-04-24T21:56:00 IST" name="closeBrowser" finished-at="2025-04-24T21:56:01 IST" duration-ms="1125" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.coverFoxTest.CoverFoxTestUsingTestNGFail@69fb6037]" started-at="2025-05-09T00:26:18 IST" name="closeBrowser" finished-at="2025-05-09T00:26:18 IST" duration-ms="811" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing Browser]]>
@@ -349,81 +338,5 @@ at java.base/java.lang.Thread.run(Thread.java:1575)
         </test-method> <!-- closeBrowser -->
       </class> <!-- com.coverFoxTest.CoverFoxTestUsingTestNGFail -->
     </test> <!-- Test2 -->
-    <test started-at="2025-04-24T21:55:33 IST" name="Test4" finished-at="2025-04-24T21:56:15 IST" duration-ms="42280">
-      <class name="com.coverFoxTest.CoverFoxValidatePincodeAndMobileErrorMsg">
-        <test-method is-config="true" signature="coverFoxPreRequisites()[pri:0, instance:com.coverFoxTest.CoverFoxValidatePincodeAndMobileErrorMsg@50caa560]" started-at="2025-04-24T21:55:33 IST" name="coverFoxPreRequisites" finished-at="2025-04-24T21:56:03 IST" duration-ms="29728" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Launching Browser]]>
-            </line>
-            <line>
-              <![CDATA[Clicking on Gender]]>
-            </line>
-            <line>
-              <![CDATA[Handeling Age Dropdown]]>
-            </line>
-            <line>
-              <![CDATA[Address details Page]]>
-            </line>
-            <line>
-              <![CDATA[Clicking continue button]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- coverFoxPreRequisites -->
-        <test-method signature="validateAddressPageMobileErrorMessages()[pri:0, instance:com.coverFoxTest.CoverFoxValidatePincodeAndMobileErrorMsg@50caa560]" started-at="2025-04-24T21:56:03 IST" name="validateAddressPageMobileErrorMessages" finished-at="2025-04-24T21:56:03 IST" duration-ms="86" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Checking if mobile error msg is displayed true]]>
-            </line>
-            <line>
-              <![CDATA[TC is passed validateAddressPageMobileErrorMessages]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- validateAddressPageMobileErrorMessages -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.coverFoxTest.CoverFoxValidatePincodeAndMobileErrorMsg@50caa560]" started-at="2025-04-24T21:56:03 IST" name="closeBrowser" finished-at="2025-04-24T21:56:03 IST" duration-ms="563" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Closing Browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="coverFoxPreRequisites()[pri:0, instance:com.coverFoxTest.CoverFoxValidatePincodeAndMobileErrorMsg@50caa560]" started-at="2025-04-24T21:56:03 IST" name="coverFoxPreRequisites" finished-at="2025-04-24T21:56:15 IST" duration-ms="11192" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Launching Browser]]>
-            </line>
-            <line>
-              <![CDATA[Clicking on Gender]]>
-            </line>
-            <line>
-              <![CDATA[Handeling Age Dropdown]]>
-            </line>
-            <line>
-              <![CDATA[Address details Page]]>
-            </line>
-            <line>
-              <![CDATA[Clicking continue button]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- coverFoxPreRequisites -->
-        <test-method signature="validateAddressPagePinErrorMessages()[pri:0, instance:com.coverFoxTest.CoverFoxValidatePincodeAndMobileErrorMsg@50caa560]" started-at="2025-04-24T21:56:15 IST" name="validateAddressPagePinErrorMessages" finished-at="2025-04-24T21:56:15 IST" duration-ms="85" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Checking if pincode error msg is displayed true]]>
-            </line>
-            <line>
-              <![CDATA[TC is passed validateAddressPagePinErrorMessages]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- validateAddressPagePinErrorMessages -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.coverFoxTest.CoverFoxValidatePincodeAndMobileErrorMsg@50caa560]" started-at="2025-04-24T21:56:15 IST" name="closeBrowser" finished-at="2025-04-24T21:56:15 IST" duration-ms="545" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Closing Browser]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
-      </class> <!-- com.coverFoxTest.CoverFoxValidatePincodeAndMobileErrorMsg -->
-    </test> <!-- Test4 -->
   </suite> <!-- Suite -->
 </testng-results>

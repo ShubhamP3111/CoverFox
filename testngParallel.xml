@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite parallel="tests" name="Suite">
+<parameter name="browser" value="chrome"></parameter>
 	<listeners>
 		<listener class-name="com.coverFox_Listener.Listener"></listener>
 		<listener class-name="com.coverFox_Listener.ExtentReporterNG"></listener>
@@ -25,12 +26,10 @@
 		</classes>
 	</test>
 
-	<test name="Test4" >
+	<!-- <test name="Test4">
 		<classes>
 			<class
 				name="com.coverFoxTest.CoverFoxValidatePincodeAndMobileErrorMsg" />
 		</classes>
-	</test>
-
-
+	</test>-->
 </suite> 

@@ -8,6 +8,7 @@ import org.apache.poi.EncryptedDocumentException;
 import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -26,27 +27,22 @@ public class CoverFoxTestUsingTestNG extends com.coverFox_Base.Base {
 	CoverFoxSelectAge coverFoxSelectAge;
 	CoverFoxResultPage coverFoxResultPage;
 
-	@BeforeClass
-	public void openBrowser() throws EncryptedDocumentException, IOException {
+	
+
+	@BeforeMethod
+	public void coverFoxPreRequisites() throws InterruptedException {
 		logger = Logger.getLogger("CoverFox");
 		PropertyConfigurator.configure("log4j.properties");
 		logger.info("Begin Testing for CoverFox");
 
-		launchBrowser();
+		//launchBrowser();
 		logger.info("launching browser");
-		// myFile = new FileInputStream("path of excel");
-		// mySheet = WorkbookFactory.create(myFile).getSheet("Sheetname");
-
+		
 		coverFoxHomePage = new CoverFoxHomePage(getDriver());
 		coverFoxAddressDetailsPage = new CoverFoxAddressDetailsPage(getDriver());
 		coverFoxGenderPage = new CoverFoxGenderPage(getDriver());
 		coverFoxSelectAge = new CoverFoxSelectAge(getDriver());
 		coverFoxResultPage = new CoverFoxResultPage(getDriver());
-
-	}
-
-	@BeforeMethod
-	public void coverFoxPreRequisites() throws InterruptedException {
 		coverFoxHomePage.HomePage();
 		logger.info("coverFoxHomePage");
 		// coverFoxAddressDetailsPage.Enterpin(mySheet.getRow(0).getCell(0).getStringCellValue(),mySheet.getRow(0).getCell(0).getStringCellValue());
@@ -73,7 +69,7 @@ public class CoverFoxTestUsingTestNG extends com.coverFox_Base.Base {
 		Reporter.log("TC Passed", true);
 	}
 
-	@AfterClass
+	@AfterMethod
 	public void closeBrowser() throws InterruptedException {
 		logger.info("Closing Browser");
 		quitBrowser();

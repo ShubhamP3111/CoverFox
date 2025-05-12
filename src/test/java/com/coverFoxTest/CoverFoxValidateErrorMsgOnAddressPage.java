@@ -38,12 +38,20 @@ public class CoverFoxValidateErrorMsgOnAddressPage extends com.coverFox_Base.Bas
 
 	@BeforeClass
 	public void openBrowser() throws EncryptedDocumentException, IOException {
+		
+		
+
+	}
+
+	@BeforeMethod
+	public void coverFoxPreRequisites() throws InterruptedException {
+		
 		logger = Logger.getLogger("CoverFox");
 		PropertyConfigurator.configure("log4j.properties");
 		logger.info("Begin Testing for CoverFoxErrorMsgonAddressPage");
 
 		logger.info("launching browser");
-		launchBrowser();
+		//launchBrowser();
 		
 		// myFile = new FileInputStream("path of excel");
 		// mySheet = WorkbookFactory.create(myFile).getSheet("Sheetname");
@@ -53,11 +61,6 @@ public class CoverFoxValidateErrorMsgOnAddressPage extends com.coverFox_Base.Bas
 		coverFoxGenderPage = new CoverFoxGenderPage(getDriver());
 		coverFoxSelectAge = new CoverFoxSelectAge(getDriver());
 		
-
-	}
-
-	@BeforeMethod
-	public void coverFoxPreRequisites() throws InterruptedException {
 		coverFoxHomePage.HomePage();
 		logger.info("coverFoxHomePage");
 		// coverFoxAddressDetailsPage.Enterpin(mySheet.getRow(0).getCell(0).getStringCellValue(),mySheet.getRow(0).getCell(0).getStringCellValue());

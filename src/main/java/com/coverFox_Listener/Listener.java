@@ -16,14 +16,21 @@ public class Listener extends com.coverFox_Base.Base implements ITestListener{
 	public void onTestSuccess(ITestResult result) {
 		//result.getName();
 		Reporter.log("TC is passed "+result.getName(), true);
+		
+		try {
+			Utility.takeScreenshot(getDriver());
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 	
 	@Override
 	public void onTestFailure(ITestResult result) {
 		Reporter.log("TC is failed "+result.getName(), true);
 		try {
-			Utility utility = new Utility();
-			utility.takeScreenshot(getDriver());
+			Utility.takeScreenshot(getDriver());
+			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

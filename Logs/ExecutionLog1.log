@@ -370,3 +370,344 @@
 2025-04-24 21:56:11,169 [TestNG-tests-4] INFO CoverFox - Click on continue button on Address Page
 2025-04-24 21:56:15,263 [TestNG-tests-4] INFO CoverFox - Validating Pincode Error Message
 2025-04-24 21:56:15,265 [TestNG-tests-4] INFO CoverFox - Closing Browser
+2025-04-25 13:19:34,091 [TestNG-tests-3] INFO CoverFox - Begin Testing for CoverFoxErrorMsgonAddressPage
+2025-04-25 13:19:34,089 [TestNG-tests-2] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:19:34,085 [TestNG-tests-1] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:19:34,104 [TestNG-tests-3] INFO CoverFox - launching browser
+2025-04-25 13:19:34,095 [TestNG-tests-4] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:19:52,217 [TestNG-tests-1] INFO CoverFox - launching browser
+2025-04-25 13:19:55,637 [TestNG-tests-4] INFO CoverFox - launching browser
+2025-04-25 13:19:58,728 [TestNG-tests-1] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:20:01,234 [TestNG-tests-4] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:20:03,356 [TestNG-tests-1] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:20:05,480 [TestNG-tests-4] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:20:08,784 [TestNG-tests-3] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:20:08,968 [TestNG-tests-1] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:20:10,906 [TestNG-tests-3] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:20:12,102 [TestNG-tests-4] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:20:12,882 [TestNG-tests-1] INFO CoverFox - coverFoxAddressDetailsPage
+2025-04-25 13:20:14,953 [TestNG-tests-4] INFO CoverFox - Click on continue button on Address Page
+2025-04-25 13:20:17,212 [TestNG-tests-3] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:20:17,563 [TestNG-tests-1] INFO CoverFox - Validating coverFoxPlans
+2025-04-25 13:20:17,585 [TestNG-tests-1] INFO CoverFox - Closing Browser
+2025-04-25 13:20:19,018 [TestNG-tests-2] INFO CoverFox - launching browser
+2025-04-25 13:20:19,427 [TestNG-tests-3] INFO CoverFox - Click on coninue button on Address Page
+2025-04-25 13:20:19,428 [TestNG-tests-4] INFO CoverFox - Validating Mobile Error Message
+2025-04-25 13:20:19,432 [TestNG-tests-4] INFO CoverFox - Closing Browser
+2025-04-25 13:20:21,092 [TestNG-tests-2] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:20:23,546 [TestNG-tests-2] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:20:24,213 [TestNG-tests-3] INFO CoverFox - Validating Pincode Error Message
+2025-04-25 13:20:24,220 [TestNG-tests-3] INFO CoverFox - Validating Mobile Error Message
+2025-04-25 13:20:24,240 [TestNG-tests-3] INFO CoverFox - Closing Browser
+2025-04-25 13:20:24,761 [TestNG-tests-2] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:20:25,952 [TestNG-tests-4] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:20:26,406 [TestNG-tests-2] INFO CoverFox - coverFoxAddressDetailsPage
+2025-04-25 13:20:29,642 [TestNG-tests-4] INFO CoverFox - launching browser
+2025-04-25 13:20:30,429 [TestNG-tests-2] WARN CoverFox - Validation of coverFoxPlans failed
+2025-04-25 13:20:30,972 [TestNG-tests-2] INFO CoverFox - Closing Browser
+2025-04-25 13:20:33,305 [TestNG-tests-4] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:20:34,914 [TestNG-tests-4] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:20:36,489 [TestNG-tests-4] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:20:37,043 [TestNG-tests-4] INFO CoverFox - Click on continue button on Address Page
+2025-04-25 13:20:41,128 [TestNG-tests-4] INFO CoverFox - Validating Pincode Error Message
+2025-04-25 13:20:41,135 [TestNG-tests-4] INFO CoverFox - Closing Browser
+2025-04-25 13:28:55,522 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:28:58,742 [main] INFO CoverFox - launching browser
+2025-04-25 13:40:51,991 [TestNG-tests-2] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:40:51,987 [TestNG-test-Test4-1] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:40:51,985 [TestNG-test-Test4-2] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:40:51,980 [TestNG-tests-1] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:40:51,993 [TestNG-tests-3] INFO CoverFox - Begin Testing for CoverFoxErrorMsgonAddressPage
+2025-04-25 13:40:52,002 [TestNG-tests-3] INFO CoverFox - launching browser
+2025-04-25 13:41:14,175 [TestNG-tests-1] INFO CoverFox - launching browser
+2025-04-25 13:41:14,187 [TestNG-tests-2] INFO CoverFox - launching browser
+2025-04-25 13:41:15,053 [TestNG-test-Test4-2] INFO CoverFox - launching browser
+2025-04-25 13:41:15,053 [TestNG-test-Test4-1] INFO CoverFox - launching browser
+2025-04-25 13:41:16,367 [TestNG-tests-3] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:41:17,767 [TestNG-tests-1] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:41:17,768 [TestNG-tests-2] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:41:19,553 [TestNG-test-Test4-2] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:41:20,903 [TestNG-tests-1] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:41:22,335 [TestNG-tests-3] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:41:22,397 [TestNG-test-Test4-2] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:41:22,449 [TestNG-tests-2] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:41:26,039 [TestNG-tests-1] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:41:26,558 [TestNG-tests-2] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:41:27,840 [TestNG-tests-3] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:41:28,942 [TestNG-test-Test4-2] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:41:29,124 [TestNG-tests-3] INFO CoverFox - Click on coninue button on Address Page
+2025-04-25 13:41:29,793 [TestNG-tests-2] INFO CoverFox - coverFoxAddressDetailsPage
+2025-04-25 13:41:29,860 [TestNG-test-Test4-2] INFO CoverFox - Click on continue button on Address Page
+2025-04-25 13:41:29,872 [TestNG-tests-1] INFO CoverFox - coverFoxAddressDetailsPage
+2025-04-25 13:41:33,536 [TestNG-tests-3] INFO CoverFox - Validating Pincode Error Message
+2025-04-25 13:41:33,542 [TestNG-tests-3] INFO CoverFox - Validating Mobile Error Message
+2025-04-25 13:41:33,551 [TestNG-tests-3] INFO CoverFox - Closing Browser
+2025-04-25 13:41:33,818 [TestNG-tests-2] WARN CoverFox - Validation of coverFoxPlans failed
+2025-04-25 13:41:34,145 [TestNG-tests-1] INFO CoverFox - Validating coverFoxPlans
+2025-04-25 13:41:34,149 [TestNG-tests-1] INFO CoverFox - Closing Browser
+2025-04-25 13:41:34,362 [TestNG-tests-2] INFO CoverFox - Closing Browser
+2025-04-25 13:44:11,308 [TestNG-tests-3] INFO CoverFox - Begin Testing for CoverFoxErrorMsgonAddressPage
+2025-04-25 13:44:11,306 [TestNG-tests-1] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:44:11,304 [TestNG-tests-2] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:44:11,316 [TestNG-tests-3] INFO CoverFox - launching browser
+2025-04-25 13:44:11,311 [TestNG-tests-4] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:44:17,704 [TestNG-tests-2] INFO CoverFox - launching browser
+2025-04-25 13:44:19,969 [TestNG-tests-1] INFO CoverFox - launching browser
+2025-04-25 13:44:20,337 [TestNG-tests-4] INFO CoverFox - launching browser
+2025-04-25 13:44:34,639 [TestNG-tests-2] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:44:36,394 [TestNG-tests-3] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:44:37,607 [TestNG-tests-1] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:44:41,712 [TestNG-tests-3] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:44:41,907 [TestNG-tests-2] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:44:44,874 [TestNG-tests-4] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:44:46,083 [TestNG-tests-4] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:44:47,707 [TestNG-tests-2] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:44:48,117 [TestNG-tests-1] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:44:48,708 [TestNG-tests-3] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:44:49,466 [TestNG-tests-4] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:44:49,743 [TestNG-tests-3] INFO CoverFox - Click on coninue button on Address Page
+2025-04-25 13:44:50,231 [TestNG-tests-1] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:44:50,273 [TestNG-tests-2] INFO CoverFox - coverFoxAddressDetailsPage
+2025-04-25 13:44:50,784 [TestNG-tests-4] INFO CoverFox - Click on continue button on Address Page
+2025-04-25 13:44:51,519 [TestNG-tests-1] INFO CoverFox - coverFoxAddressDetailsPage
+2025-04-25 13:44:53,888 [TestNG-tests-3] INFO CoverFox - Validating Pincode Error Message
+2025-04-25 13:44:53,891 [TestNG-tests-3] INFO CoverFox - Validating Mobile Error Message
+2025-04-25 13:44:53,897 [TestNG-tests-3] INFO CoverFox - Closing Browser
+2025-04-25 13:44:54,288 [TestNG-tests-2] WARN CoverFox - Validation of coverFoxPlans failed
+2025-04-25 13:44:54,530 [TestNG-tests-2] INFO CoverFox - Closing Browser
+2025-04-25 13:44:55,065 [TestNG-tests-4] INFO CoverFox - Validating Mobile Error Message
+2025-04-25 13:44:55,070 [TestNG-tests-4] INFO CoverFox - Closing Browser
+2025-04-25 13:44:55,758 [TestNG-tests-1] INFO CoverFox - Validating coverFoxPlans
+2025-04-25 13:44:55,762 [TestNG-tests-1] INFO CoverFox - Closing Browser
+2025-04-25 13:44:56,756 [TestNG-tests-4] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:45:01,780 [TestNG-tests-4] INFO CoverFox - launching browser
+2025-04-25 13:45:03,253 [TestNG-tests-4] INFO CoverFox - coverFoxHomePage
+2025-04-25 13:45:04,658 [TestNG-tests-4] INFO CoverFox - coverFoxGenderPage
+2025-04-25 13:45:06,118 [TestNG-tests-4] INFO CoverFox - coverFoxSelectAge
+2025-04-25 13:45:06,620 [TestNG-tests-4] INFO CoverFox - Click on continue button on Address Page
+2025-04-25 13:45:10,683 [TestNG-tests-4] INFO CoverFox - Validating Pincode Error Message
+2025-04-25 13:45:10,686 [TestNG-tests-4] INFO CoverFox - Closing Browser
+2025-04-25 13:48:46,797 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-04-25 13:48:50,234 [main] INFO CoverFox - launching browser
+2025-04-26 01:26:26,416 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-04-26 01:26:26,429 [main] INFO CoverFox - launching browser
+2025-04-26 01:26:28,005 [main] INFO CoverFox - coverFoxHomePage
+2025-04-26 01:26:29,053 [main] INFO CoverFox - coverFoxGenderPage
+2025-04-26 01:26:31,068 [main] INFO CoverFox - coverFoxSelectAge
+2025-04-26 01:26:32,047 [main] INFO CoverFox - Click on continue button on Address Page
+2025-04-26 01:26:36,135 [main] INFO CoverFox - Validating Mobile Error Message
+2025-04-26 01:26:36,143 [main] INFO CoverFox - Closing Browser
+2025-04-26 01:26:37,596 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-04-26 01:26:37,597 [main] INFO CoverFox - launching browser
+2025-04-26 01:28:25,023 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-04-26 01:28:25,029 [main] INFO CoverFox - launching browser
+2025-04-26 01:28:26,491 [main] INFO CoverFox - coverFoxHomePage
+2025-04-26 01:28:27,663 [main] INFO CoverFox - coverFoxGenderPage
+2025-04-26 01:28:29,354 [main] INFO CoverFox - coverFoxSelectAge
+2025-04-26 01:28:30,236 [main] INFO CoverFox - Click on continue button on Address Page
+2025-04-26 01:28:34,302 [main] INFO CoverFox - Validating Mobile Error Message
+2025-04-26 01:28:34,309 [main] INFO CoverFox - Closing Browser
+2025-04-26 01:28:42,563 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-04-26 01:28:42,569 [main] INFO CoverFox - launching browser
+2025-04-26 01:28:43,779 [main] INFO CoverFox - coverFoxHomePage
+2025-04-26 01:28:44,806 [main] INFO CoverFox - coverFoxGenderPage
+2025-04-26 01:28:46,533 [main] INFO CoverFox - coverFoxSelectAge
+2025-04-26 01:28:47,284 [main] INFO CoverFox - Click on continue button on Address Page
+2025-04-26 01:28:51,351 [main] INFO CoverFox - Validating Pincode Error Message
+2025-04-26 01:28:51,355 [main] INFO CoverFox - Closing Browser
+2025-04-26 01:31:36,560 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-04-26 01:31:36,568 [main] INFO CoverFox - launching browser
+2025-04-26 01:32:45,194 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-04-26 01:32:45,204 [main] INFO CoverFox - launching browser
+2025-04-26 01:32:54,657 [main] INFO CoverFox - coverFoxHomePage
+2025-04-26 01:32:55,861 [main] INFO CoverFox - coverFoxGenderPage
+2025-04-26 01:32:57,418 [main] INFO CoverFox - coverFoxSelectAge
+2025-04-26 01:32:58,519 [main] INFO CoverFox - coverFoxAddressDetailsPage
+2025-04-26 01:33:02,885 [main] INFO CoverFox - Validating coverFoxPlans
+2025-04-26 01:33:02,897 [main] INFO CoverFox - Closing Browser
+2025-04-26 01:34:20,465 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-04-26 01:34:20,471 [main] INFO CoverFox - launching browser
+2025-04-26 01:34:29,254 [main] INFO CoverFox - coverFoxHomePage
+2025-04-26 01:34:30,274 [main] INFO CoverFox - coverFoxGenderPage
+2025-04-26 01:34:31,918 [main] INFO CoverFox - coverFoxSelectAge
+2025-04-26 01:34:32,989 [main] INFO CoverFox - coverFoxAddressDetailsPage
+2025-04-26 01:34:37,089 [main] INFO CoverFox - Validating coverFoxPlans
+2025-04-26 01:34:37,098 [main] INFO CoverFox - Closing Browser
+2025-04-26 01:34:38,415 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-04-26 01:34:38,415 [main] INFO CoverFox - launching browser
+2025-04-26 01:34:47,012 [main] INFO CoverFox - coverFoxHomePage
+2025-04-26 01:34:48,361 [main] INFO CoverFox - coverFoxGenderPage
+2025-04-26 01:34:49,165 [main] INFO CoverFox - coverFoxSelectAge
+2025-04-26 01:34:49,918 [main] INFO CoverFox - coverFoxAddressDetailsPage
+2025-04-26 01:34:54,041 [main] INFO CoverFox - Validating coverFoxPlans
+2025-04-26 01:34:54,045 [main] INFO CoverFox - Closing Browser
+2025-05-08 19:55:28,523 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 19:55:28,537 [main] INFO CoverFox - launching browser
+2025-05-08 19:55:28,846 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 19:55:28,848 [main] INFO CoverFox - launching browser
+2025-05-08 19:55:28,895 [main] INFO CoverFox - Begin Testing for CoverFoxErrorMsgonAddressPage
+2025-05-08 19:55:28,897 [main] INFO CoverFox - launching browser
+2025-05-08 19:55:28,929 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 19:55:28,930 [main] INFO CoverFox - launching browser
+2025-05-08 20:02:27,352 [TestNG-tests-4] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 20:02:27,349 [TestNG-tests-2] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 20:02:27,364 [TestNG-tests-2] INFO CoverFox - launching browser
+2025-05-08 20:02:27,346 [TestNG-tests-3] INFO CoverFox - Begin Testing for CoverFoxErrorMsgonAddressPage
+2025-05-08 20:02:27,365 [TestNG-tests-3] INFO CoverFox - launching browser
+2025-05-08 20:02:27,363 [TestNG-tests-4] INFO CoverFox - launching browser
+2025-05-08 20:02:27,354 [TestNG-tests-1] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 20:02:27,369 [TestNG-tests-1] INFO CoverFox - launching browser
+2025-05-08 20:02:50,386 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 20:02:50,395 [main] INFO CoverFox - launching browser
+2025-05-08 20:03:03,957 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 20:03:03,963 [main] INFO CoverFox - launching browser
+2025-05-08 23:35:52,131 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 23:35:52,140 [main] INFO CoverFox - launching browser
+2025-05-08 23:39:18,661 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 23:39:18,667 [main] INFO CoverFox - launching browser
+2025-05-08 23:39:20,217 [main] INFO CoverFox - coverFoxHomePage
+2025-05-08 23:39:21,121 [main] INFO CoverFox - coverFoxGenderPage
+2025-05-08 23:39:22,825 [main] INFO CoverFox - coverFoxSelectAge
+2025-05-08 23:39:23,863 [main] INFO CoverFox - coverFoxAddressDetailsPage
+2025-05-08 23:39:28,015 [main] INFO CoverFox - Validating coverFoxPlans
+2025-05-08 23:39:28,037 [main] INFO CoverFox - Closing Browser
+2025-05-08 23:39:37,648 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 23:39:37,649 [main] INFO CoverFox - launching browser
+2025-05-08 23:39:38,569 [main] INFO CoverFox - coverFoxHomePage
+2025-05-08 23:39:39,646 [main] INFO CoverFox - coverFoxGenderPage
+2025-05-08 23:39:40,837 [main] INFO CoverFox - coverFoxSelectAge
+2025-05-08 23:39:41,596 [main] INFO CoverFox - coverFoxAddressDetailsPage
+2025-05-08 23:39:45,693 [main] INFO CoverFox - Validating coverFoxPlans
+2025-05-08 23:39:45,697 [main] INFO CoverFox - Closing Browser
+2025-05-08 23:40:46,951 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 23:40:46,959 [main] INFO CoverFox - launching browser
+2025-05-08 23:40:47,867 [main] INFO CoverFox - coverFoxHomePage
+2025-05-08 23:40:49,096 [main] INFO CoverFox - coverFoxGenderPage
+2025-05-08 23:40:49,958 [main] INFO CoverFox - coverFoxSelectAge
+2025-05-08 23:40:50,846 [main] INFO CoverFox - coverFoxAddressDetailsPage
+2025-05-08 23:40:55,030 [main] INFO CoverFox - Validating coverFoxPlans
+2025-05-08 23:40:55,406 [main] INFO CoverFox - Closing Browser
+2025-05-08 23:42:08,645 [main] INFO CoverFox - Begin Testing for CoverFoxErrorMsgonAddressPage
+2025-05-08 23:42:08,650 [main] INFO CoverFox - launching browser
+2025-05-08 23:42:09,215 [main] INFO CoverFox - coverFoxHomePage
+2025-05-08 23:42:10,042 [main] INFO CoverFox - coverFoxGenderPage
+2025-05-08 23:42:11,820 [main] INFO CoverFox - coverFoxSelectAge
+2025-05-08 23:42:12,377 [main] INFO CoverFox - Click on coninue button on Address Page
+2025-05-08 23:42:16,536 [main] INFO CoverFox - Validating Pincode Error Message
+2025-05-08 23:42:16,543 [main] INFO CoverFox - Validating Mobile Error Message
+2025-05-08 23:42:16,802 [main] INFO CoverFox - Closing Browser
+2025-05-08 23:42:31,439 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 23:42:31,455 [main] INFO CoverFox - launching browser
+2025-05-08 23:42:53,363 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 23:42:53,371 [main] INFO CoverFox - launching browser
+2025-05-08 23:42:54,209 [main] INFO CoverFox - coverFoxHomePage
+2025-05-08 23:42:55,179 [main] INFO CoverFox - coverFoxGenderPage
+2025-05-08 23:42:56,330 [main] INFO CoverFox - coverFoxSelectAge
+2025-05-08 23:42:57,172 [main] INFO CoverFox - coverFoxAddressDetailsPage
+2025-05-08 23:43:01,284 [main] INFO CoverFox - Validating coverFoxPlans
+2025-05-08 23:43:01,498 [main] INFO CoverFox - Closing Browser
+2025-05-08 23:44:08,138 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 23:44:08,150 [main] INFO CoverFox - launching browser
+2025-05-08 23:44:09,154 [main] INFO CoverFox - coverFoxHomePage
+2025-05-08 23:44:10,584 [main] INFO CoverFox - coverFoxGenderPage
+2025-05-08 23:44:11,491 [main] INFO CoverFox - coverFoxSelectAge
+2025-05-08 23:44:11,984 [main] INFO CoverFox - Click on continue button on Address Page
+2025-05-08 23:44:16,098 [main] INFO CoverFox - Validating Mobile Error Message
+2025-05-08 23:44:16,300 [main] INFO CoverFox - Closing Browser
+2025-05-08 23:44:17,178 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 23:44:17,179 [main] INFO CoverFox - launching browser
+2025-05-08 23:44:52,110 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 23:44:52,120 [main] INFO CoverFox - launching browser
+2025-05-08 23:44:53,091 [main] INFO CoverFox - coverFoxHomePage
+2025-05-08 23:44:54,552 [main] INFO CoverFox - coverFoxGenderPage
+2025-05-08 23:44:55,465 [main] INFO CoverFox - coverFoxSelectAge
+2025-05-08 23:44:55,958 [main] INFO CoverFox - Click on continue button on Address Page
+2025-05-08 23:45:00,075 [main] INFO CoverFox - Validating Mobile Error Message
+2025-05-08 23:45:00,263 [main] INFO CoverFox - Closing Browser
+2025-05-08 23:45:03,878 [main] INFO CoverFox - Begin Testing for CoverFox
+2025-05-08 23:45:03,879 [main] INFO CoverFox - launching browser
+2025-05-08 23:45:04,847 [main] INFO CoverFox - coverFoxHomePage
+2025-05-08 23:45:05,807 [main] INFO CoverFox - coverFoxGenderPage
+2025-05-08 23:45:07,389 [main] INFO CoverFox - coverFoxSelectAge
+2025-05-08 23:45:07,981 [main] INFO CoverFox - Click on continue button on Address Page
+2025-05-08 23:45:12,115 [main] INFO CoverFox - Validating Pincode Error Message
+2025-05-08 23:45:12,348 [main] INFO CoverFox - Closing Browser
+2025-05-09 00:19:56,984 [TestNG-tests-2] INFO CoverFox - Begin Testing for CoverFox
+2025-05-09 00:19:56,993 [TestNG-tests-2] INFO CoverFox - launching browser
+2025-05-09 00:20:11,861 [TestNG-tests-1] INFO CoverFox - Begin Testing for CoverFox
+2025-05-09 00:20:11,863 [TestNG-tests-1] INFO CoverFox - launching browser
+2025-05-09 00:20:12,130 [TestNG-tests-4] INFO CoverFox - Begin Testing for CoverFox
+2025-05-09 00:20:12,219 [TestNG-tests-4] INFO CoverFox - launching browser
+2025-05-09 00:20:12,643 [TestNG-tests-3] INFO CoverFox - Begin Testing for CoverFoxErrorMsgonAddressPage
+2025-05-09 00:20:12,644 [TestNG-tests-3] INFO CoverFox - launching browser
+2025-05-09 00:20:13,375 [TestNG-tests-1] INFO CoverFox - coverFoxHomePage
+2025-05-09 00:20:17,140 [TestNG-tests-1] INFO CoverFox - coverFoxGenderPage
+2025-05-09 00:20:18,046 [TestNG-tests-4] INFO CoverFox - coverFoxHomePage
+2025-05-09 00:20:18,502 [TestNG-tests-3] INFO CoverFox - coverFoxHomePage
+2025-05-09 00:20:21,423 [TestNG-tests-4] INFO CoverFox - coverFoxGenderPage
+2025-05-09 00:20:21,902 [TestNG-tests-1] INFO CoverFox - coverFoxSelectAge
+2025-05-09 00:20:22,124 [TestNG-tests-3] INFO CoverFox - coverFoxGenderPage
+2025-05-09 00:20:22,859 [TestNG-tests-4] INFO CoverFox - coverFoxSelectAge
+2025-05-09 00:20:22,906 [TestNG-tests-3] INFO CoverFox - coverFoxSelectAge
+2025-05-09 00:20:23,118 [TestNG-tests-1] INFO CoverFox - coverFoxAddressDetailsPage
+2025-05-09 00:20:24,094 [TestNG-tests-4] INFO CoverFox - Click on continue button on Address Page
+2025-05-09 00:20:24,109 [TestNG-tests-3] INFO CoverFox - Click on coninue button on Address Page
+2025-05-09 00:20:27,186 [TestNG-tests-1] INFO CoverFox - Validating coverFoxPlans
+2025-05-09 00:20:27,532 [TestNG-tests-1] INFO CoverFox - Closing Browser
+2025-05-09 00:20:28,228 [TestNG-tests-4] INFO CoverFox - Validating Mobile Error Message
+2025-05-09 00:20:28,336 [TestNG-tests-3] INFO CoverFox - Validating Pincode Error Message
+2025-05-09 00:20:28,338 [TestNG-tests-3] INFO CoverFox - Validating Mobile Error Message
+2025-05-09 00:20:28,490 [TestNG-tests-4] INFO CoverFox - Closing Browser
+2025-05-09 00:20:28,662 [TestNG-tests-3] INFO CoverFox - Closing Browser
+2025-05-09 00:20:33,962 [TestNG-tests-4] INFO CoverFox - Begin Testing for CoverFox
+2025-05-09 00:20:33,963 [TestNG-tests-4] INFO CoverFox - launching browser
+2025-05-09 00:20:34,778 [TestNG-tests-4] INFO CoverFox - coverFoxHomePage
+2025-05-09 00:20:36,134 [TestNG-tests-4] INFO CoverFox - coverFoxGenderPage
+2025-05-09 00:20:37,393 [TestNG-tests-4] INFO CoverFox - coverFoxSelectAge
+2025-05-09 00:20:37,927 [TestNG-tests-4] INFO CoverFox - Click on continue button on Address Page
+2025-05-09 00:20:42,088 [TestNG-tests-4] INFO CoverFox - Validating Pincode Error Message
+2025-05-09 00:20:42,345 [TestNG-tests-4] INFO CoverFox - Closing Browser
+2025-05-09 00:21:35,361 [TestNG-tests-2] INFO CoverFox - Begin Testing for CoverFox
+2025-05-09 00:21:35,367 [TestNG-tests-2] INFO CoverFox - launching browser
+2025-05-09 00:21:42,599 [TestNG-tests-3] INFO CoverFox - Begin Testing for CoverFoxErrorMsgonAddressPage
+2025-05-09 00:21:42,600 [TestNG-tests-3] INFO CoverFox - launching browser
+2025-05-09 00:21:43,670 [TestNG-tests-1] INFO CoverFox - Begin Testing for CoverFox
+2025-05-09 00:21:43,750 [TestNG-tests-1] INFO CoverFox - launching browser
+2025-05-09 00:21:43,977 [TestNG-tests-3] INFO CoverFox - coverFoxHomePage
+2025-05-09 00:21:45,477 [TestNG-tests-3] INFO CoverFox - coverFoxGenderPage
+2025-05-09 00:21:45,628 [TestNG-tests-1] INFO CoverFox - coverFoxHomePage
+2025-05-09 00:21:47,629 [TestNG-tests-1] INFO CoverFox - coverFoxGenderPage
+2025-05-09 00:21:49,490 [TestNG-tests-3] INFO CoverFox - coverFoxSelectAge
+2025-05-09 00:21:50,159 [TestNG-tests-3] INFO CoverFox - Click on coninue button on Address Page
+2025-05-09 00:21:50,483 [TestNG-tests-1] INFO CoverFox - coverFoxSelectAge
+2025-05-09 00:21:51,477 [TestNG-tests-1] INFO CoverFox - coverFoxAddressDetailsPage
+2025-05-09 00:21:54,388 [TestNG-tests-3] INFO CoverFox - Validating Pincode Error Message
+2025-05-09 00:21:54,393 [TestNG-tests-3] INFO CoverFox - Validating Mobile Error Message
+2025-05-09 00:21:54,634 [TestNG-tests-3] INFO CoverFox - Closing Browser
+2025-05-09 00:21:55,683 [TestNG-tests-1] INFO CoverFox - Validating coverFoxPlans
+2025-05-09 00:21:56,081 [TestNG-tests-1] INFO CoverFox - Closing Browser
+2025-05-09 00:26:00,902 [TestNG-tests-1] INFO CoverFox - Begin Testing for CoverFox
+2025-05-09 00:26:00,912 [TestNG-tests-1] INFO CoverFox - launching browser
+2025-05-09 00:26:01,054 [TestNG-tests-2] INFO CoverFox - Begin Testing for CoverFox
+2025-05-09 00:26:01,097 [TestNG-tests-2] INFO CoverFox - launching browser
+2025-05-09 00:26:04,460 [TestNG-tests-3] INFO CoverFox - Begin Testing for CoverFoxErrorMsgonAddressPage
+2025-05-09 00:26:04,472 [TestNG-tests-3] INFO CoverFox - launching browser
+2025-05-09 00:26:05,706 [TestNG-tests-1] INFO CoverFox - coverFoxHomePage
+2025-05-09 00:26:06,565 [TestNG-tests-2] INFO CoverFox - coverFoxHomePage
+2025-05-09 00:26:06,818 [TestNG-tests-3] INFO CoverFox - coverFoxHomePage
+2025-05-09 00:26:07,582 [TestNG-tests-2] INFO CoverFox - coverFoxGenderPage
+2025-05-09 00:26:07,878 [TestNG-tests-3] INFO CoverFox - coverFoxGenderPage
+2025-05-09 00:26:07,989 [TestNG-tests-1] INFO CoverFox - coverFoxGenderPage
+2025-05-09 00:26:11,955 [TestNG-tests-1] INFO CoverFox - coverFoxSelectAge
+2025-05-09 00:26:12,219 [TestNG-tests-3] INFO CoverFox - coverFoxSelectAge
+2025-05-09 00:26:12,674 [TestNG-tests-2] INFO CoverFox - coverFoxSelectAge
+2025-05-09 00:26:12,984 [TestNG-tests-3] INFO CoverFox - Click on coninue button on Address Page
+2025-05-09 00:26:13,309 [TestNG-tests-1] INFO CoverFox - coverFoxAddressDetailsPage
+2025-05-09 00:26:13,693 [TestNG-tests-2] INFO CoverFox - coverFoxAddressDetailsPage
+2025-05-09 00:26:17,278 [TestNG-tests-3] INFO CoverFox - Validating Pincode Error Message
+2025-05-09 00:26:17,289 [TestNG-tests-3] INFO CoverFox - Validating Mobile Error Message
+2025-05-09 00:26:17,479 [TestNG-tests-1] INFO CoverFox - Validating coverFoxPlans
+2025-05-09 00:26:17,683 [TestNG-tests-3] INFO CoverFox - Closing Browser
+2025-05-09 00:26:17,699 [TestNG-tests-2] WARN CoverFox - Validation of coverFoxPlans failed
+2025-05-09 00:26:17,845 [TestNG-tests-1] INFO CoverFox - Closing Browser
+2025-05-09 00:26:18,043 [TestNG-tests-2] INFO CoverFox - Closing Browser

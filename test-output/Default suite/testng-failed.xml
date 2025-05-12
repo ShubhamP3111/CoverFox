@@ -3,14 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.coverFoxTest.CoverFoxTestUsingTestNGFail">
+      <class name="com.coverFoxTest.CoverFoxTestUsingTestNG">
         <methods>
-          <include name="coverFoxPreRequisites"/>
-          <include name="openBrowser"/>
-          <include name="validateCoverFoxPlansFail"/>
+          <include name="validateCoverFoxPlans"/>
           <include name="closeBrowser"/>
+          <include name="launchBrowser"/>
+          <include name="coverFoxPreRequisites"/>
         </methods>
-      </class> <!-- com.coverFoxTest.CoverFoxTestUsingTestNGFail -->
+      </class> <!-- com.coverFoxTest.CoverFoxTestUsingTestNG -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
