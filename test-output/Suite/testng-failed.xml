@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Test(failed)">
-    <parameter name="browser" value="firefox"/>
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.coverFox_Listener.Listener"/>
+    <listener class-name="com.coverFox_Listener.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="Test2(failed)">
     <classes>
-      <class name="com.coverFoxTest.CoverFoxTestUsingTestNG">
+      <class name="com.coverFoxTest.CoverFoxTestUsingTestNGFail">
         <methods>
-          <include name="validateCoverFoxPlans"/>
-          <include name="closeBrowser"/>
-          <include name="openBrowser"/>
-          <include name="launchBrowser"/>
           <include name="coverFoxPreRequisites"/>
+          <include name="launchBrowser"/>
+          <include name="validateCoverFoxPlansFail"/>
+          <include name="closeBrowser"/>
         </methods>
-      </class> <!-- com.coverFoxTest.CoverFoxTestUsingTestNG -->
+      </class> <!-- com.coverFoxTest.CoverFoxTestUsingTestNGFail -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- Test2(failed) -->
 </suite> <!-- Failed suite [Suite] -->

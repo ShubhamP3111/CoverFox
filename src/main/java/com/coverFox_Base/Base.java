@@ -30,7 +30,7 @@ public class Base {
 	
 	private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
 	
-
+	@BeforeMethod
 	@Parameters("browser")
 	public void launchBrowser(String browser) throws IOException {
 		crossBrowserTesting(browser);

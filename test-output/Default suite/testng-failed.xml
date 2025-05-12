@@ -7,7 +7,7 @@
         <methods>
           <include name="validateCoverFoxPlans"/>
           <include name="closeBrowser"/>
-          <include name="openBrowser"/>
+          <include name="launchBrowser"/>
           <include name="coverFoxPreRequisites"/>
         </methods>
       </class> <!-- com.coverFoxTest.CoverFoxTestUsingTestNG -->

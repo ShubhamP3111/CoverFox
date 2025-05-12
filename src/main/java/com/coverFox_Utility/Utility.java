@@ -69,7 +69,6 @@ public class Utility {
 	}
 	
 	public static void explicitWaitOnWebElements(WebDriver driver, WebElement element, int milliSeconds) {
-		
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofMillis(milliSeconds));
 		wait.until(ExpectedConditions.visibilityOf(element));
 	}
